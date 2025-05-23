@@ -1,6 +1,6 @@
 # City Data ETL Pipeline for E-Scooter Mobility Analysis
 
-A robust ETL pipeline for collecting and analyzing city demographic data to support predictive mobility planning in e-scooter sharing systems. Developed as part of Gans' urban mobility initiative.
+A robust ETL (Extract, Transform, Load) pipeline for collecting and analyzing city demographic data to support predictive mobility planning in e-scooter sharing systems. Developed as part of Gans' urban mobility initiative.
 
 ![Jupyter Notebook Badge](https://img.shields.io/badge/Made_with-Jupyter-orange?logo=Jupyter)
 ![Python](https://img.shields.io/badge/python-3.9%20%7C%203.10-blue)
